@@ -1,5 +1,21 @@
 # NAVAL Installations
 
+## Numbered Fleets
+
+### [2nd Fleet](./fleets/2ndfleet.md)
+
+### [3rd Fleet](./fleets/3rdfleet.md)
+
+### [4th Fleet](./fleets/4thfleet.md)
+
+### [5th Fleet](./fleets/5thfleet.md)
+
+### [6th Fleet](./fleets/6thfleet.md)
+
+### [7th Fleet](./fleets/7thfleet.md)
+
+### [10th Fleet](./fleets/10thfleet.md)
+
 ## United States (CONUS)
 
 - Alabama
