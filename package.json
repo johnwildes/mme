@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "@vuepress/theme-default": "^2.0.0-rc.0"
   }
 }
